@@ -13,8 +13,8 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Festival Karawang Bersatu",
-  description: "Merayakan keberagaman musik Indonesia! di Karawang",
+  title: "diamond gratis free fire dan mobile legend",
+  description: "event diamond gratis free fire dan mobile legend khusus warga karawang",
 };
 
 export default function RootLayout({ children }) {
